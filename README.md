@@ -1,1 +1,2 @@
-# my-erlang
+[NOTEs]
+http://www.erlang.org/doc/
